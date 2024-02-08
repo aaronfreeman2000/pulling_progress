@@ -1,2 +1,6 @@
 # Sample text
+
 # your text has been sampled!
+=======
+
+plot <- plot(cars)
