@@ -1,3 +1,3 @@
-# Sample text
+
 
 plot <- plot(cars)
